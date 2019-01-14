@@ -1,0 +1,14 @@
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\obj\Debug\Challenge_Two_B.csproj.CoreCompileInputs.cache
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\bin\Debug\Challenge_Two_B.exe.config
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\bin\Debug\Challenge_Two_B.exe
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\bin\Debug\Challenge_Two_B.pdb
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\obj\Debug\Challenge_Two_B.exe
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\obj\Debug\Challenge_Two_B.pdb
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\obj\Debug\Challenge_Two_B.csprojAssemblyReference.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\obj\Debug\Challenge_Two_B.csprojAssemblyReference.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\obj\Debug\Challenge_Two_B.csproj.CoreCompileInputs.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\obj\Debug\Challenge_Two_B.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\obj\Debug\Challenge_Two_B.pdb
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\bin\Debug\Challenge_Two_B.exe.config
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\bin\Debug\Challenge_Two_B.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_Two_B\bin\Debug\Challenge_Two_B.pdb

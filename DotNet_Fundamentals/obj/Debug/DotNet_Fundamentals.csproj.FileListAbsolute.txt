@@ -1,0 +1,14 @@
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\bin\Debug\DotNet_Fundamentals.exe.config
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\bin\Debug\DotNet_Fundamentals.exe
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\bin\Debug\DotNet_Fundamentals.pdb
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\obj\Debug\DotNet_Fundamentals.csprojAssemblyReference.cache
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\obj\Debug\DotNet_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\obj\Debug\DotNet_Fundamentals.exe
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\obj\Debug\DotNet_Fundamentals.pdb
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\bin\Debug\DotNet_Fundamentals.exe.config
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\bin\Debug\DotNet_Fundamentals.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\bin\Debug\DotNet_Fundamentals.pdb
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\obj\Debug\DotNet_Fundamentals.csprojAssemblyReference.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\obj\Debug\DotNet_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\obj\Debug\DotNet_Fundamentals.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\DotNet_Fundamentals\obj\Debug\DotNet_Fundamentals.pdb

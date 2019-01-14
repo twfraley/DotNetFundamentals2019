@@ -1,0 +1,6 @@
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_One\bin\Debug\Challenge_One.exe.config
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_One\bin\Debug\Challenge_One.exe
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_One\bin\Debug\Challenge_One.pdb
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_One\obj\Debug\Challenge_One_And_Two.csproj.CoreCompileInputs.cache
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_One\obj\Debug\Challenge_One.exe
+C:\Users\twfra\Documents\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\Challenge_One\obj\Debug\Challenge_One.pdb

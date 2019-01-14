@@ -1,0 +1,7 @@
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\ThanksgivingConsole\bin\Debug\ThanksgivingConsole.exe.config
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\ThanksgivingConsole\bin\Debug\ThanksgivingConsole.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\ThanksgivingConsole\bin\Debug\ThanksgivingConsole.pdb
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\ThanksgivingConsole\obj\Debug\ThanksgivingConsole.csprojAssemblyReference.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\ThanksgivingConsole\obj\Debug\ThanksgivingConsole.csproj.CoreCompileInputs.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\ThanksgivingConsole\obj\Debug\ThanksgivingConsole.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\ThanksgivingConsole\obj\Debug\ThanksgivingConsole.pdb
