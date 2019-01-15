@@ -1,0 +1,7 @@
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\MDSN_Dinosaurs_Test\bin\Debug\MDSN_Dinosaurs_Test.exe.config
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\MDSN_Dinosaurs_Test\bin\Debug\MDSN_Dinosaurs_Test.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\MDSN_Dinosaurs_Test\bin\Debug\MDSN_Dinosaurs_Test.pdb
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\MDSN_Dinosaurs_Test\obj\Debug\MDSN_Dinosaurs_Test.csprojAssemblyReference.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\MDSN_Dinosaurs_Test\obj\Debug\MDSN_Dinosaurs_Test.csproj.CoreCompileInputs.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\MDSN_Dinosaurs_Test\obj\Debug\MDSN_Dinosaurs_Test.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\MDSN_Dinosaurs_Test\obj\Debug\MDSN_Dinosaurs_Test.pdb

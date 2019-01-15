@@ -18,3 +18,6 @@ C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotN
 C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\UnitTestProject1\bin\Debug\Insurance.exe
 C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\UnitTestProject1\bin\Debug\Insurance.pdb
 C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\UnitTestProject1\bin\Debug\Insurance.exe.config
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\UnitTestProject1\bin\Debug\InsuranceChallenge_Week2.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\UnitTestProject1\bin\Debug\InsuranceChallenge_Week2.pdb
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\UnitTestProject1\bin\Debug\InsuranceChallenge_Week2.exe.config

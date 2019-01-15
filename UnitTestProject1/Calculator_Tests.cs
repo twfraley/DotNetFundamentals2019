@@ -18,8 +18,8 @@ namespace UnitTestProject1
             CalculatorRepository calcRepo = new CalculatorRepository();
 
             //Act
-            int actualValue = calcRepo.AddTwoNumbers(3, 4);
-            int expected = 7;
+            float actualValue = calcRepo.AddTwoNumbers(3, 4);
+            float expected = 7;
 
             //Assert
             Assert.AreEqual(expected, actualValue);
@@ -33,8 +33,8 @@ namespace UnitTestProject1
 
             CalculatorRepository calcRepo = new CalculatorRepository();
 
-            int actualValue = calcRepo.SubtractTwoNumbers(4, 3);
-            int expected = 1;
+            float actualValue = calcRepo.SubtractTwoNumbers(4, 3);
+            float expected = 1;
 
             Assert.AreEqual(expected, actualValue);
         }
@@ -44,8 +44,8 @@ namespace UnitTestProject1
         {
             CalculatorRepository calcRepo = new CalculatorRepository();
 
-            int actualValue = calcRepo.MultiplyTwoNumbers(4, 3);
-            int expected = 12;
+            float actualValue = calcRepo.MultiplyTwoNumbers(4, 3);
+            float expected = 12;
 
             Assert.AreEqual(expected, actualValue);
         }
@@ -55,8 +55,8 @@ namespace UnitTestProject1
         {
             CalculatorRepository calcRepo = new CalculatorRepository();
 
-            int actualValue = calcRepo.DivideTwoNumbers(12, 3);
-            int expected = 4;
+            decimal actualValue = calcRepo.DivideTwoNumbers(12, 3);
+            decimal expected = 4;
 
             Assert.AreEqual(expected, actualValue);
         }

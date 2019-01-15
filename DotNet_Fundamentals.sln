@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCases", "SwitchCases\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop_Examples", "Loop_Examples\Loop_Examples.csproj", "{2AB8870A-AB34-480D-B43D-A0C4532A0131}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakerStreetBakery", "InsuranceChallenge_Week2\BakerStreetBakery.csproj", "{D78FED42-E60D-4B4B-B262-5BC5AF9F196B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDSN_Dinosaurs_Test", "MDSN_Dinosaurs_Test\MDSN_Dinosaurs_Test.csproj", "{CC306A33-DEB2-4BE4-8963-8B965BF39AF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{2AB8870A-AB34-480D-B43D-A0C4532A0131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AB8870A-AB34-480D-B43D-A0C4532A0131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AB8870A-AB34-480D-B43D-A0C4532A0131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78FED42-E60D-4B4B-B262-5BC5AF9F196B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78FED42-E60D-4B4B-B262-5BC5AF9F196B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78FED42-E60D-4B4B-B262-5BC5AF9F196B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78FED42-E60D-4B4B-B262-5BC5AF9F196B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC306A33-DEB2-4BE4-8963-8B965BF39AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC306A33-DEB2-4BE4-8963-8B965BF39AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC306A33-DEB2-4BE4-8963-8B965BF39AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC306A33-DEB2-4BE4-8963-8B965BF39AF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -52,6 +52,7 @@
     <Compile Include="Calculator_Tests.cs" />
     <Compile Include="Insurance_Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="BakeryChallenge_Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -60,6 +61,10 @@
     <ProjectReference Include="..\Calculator\Calculator.csproj">
       <Project>{A45F2754-7F60-402A-A756-AD2F1452C18A}</Project>
       <Name>Calculator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InsuranceChallenge_Week2\BakerStreetBakery.csproj">
+      <Project>{D78FED42-E60D-4B4B-B262-5BC5AF9F196B}</Project>
+      <Name>BakerStreetBakery</Name>
     </ProjectReference>
     <ProjectReference Include="..\Insurance\Insurance.csproj">
       <Project>{A2456622-ADF9-4FA8-89A7-27BCDB13571B}</Project>

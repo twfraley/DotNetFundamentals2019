@@ -1,0 +1,7 @@
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\InsuranceChallenge_Week2\bin\Debug\InsuranceChallenge_Week2.exe.config
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\InsuranceChallenge_Week2\bin\Debug\InsuranceChallenge_Week2.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\InsuranceChallenge_Week2\bin\Debug\InsuranceChallenge_Week2.pdb
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\InsuranceChallenge_Week2\obj\Debug\BakerStreetBakery.csprojAssemblyReference.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\InsuranceChallenge_Week2\obj\Debug\BakerStreetBakery.csproj.CoreCompileInputs.cache
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\InsuranceChallenge_Week2\obj\Debug\InsuranceChallenge_Week2.exe
+C:\Users\twfra\Documents\DotNet Class\DotNetProjects\Projects\DotNetFundies\DotNet_Fundamentals\InsuranceChallenge_Week2\obj\Debug\InsuranceChallenge_Week2.pdb
